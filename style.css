@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    
+}
+
+body div h2{
+    font-size: 20px;
+}
+
+body {
+    color:rgb(215, 196, 196);
+}
+body div p{
+    font-size: 20px;
+}
+
+body div button{
+    font-size: 20px;
+    font-family: 'calibri', Times, serif;
+    color: rgb(0, 0, 0);
+}
